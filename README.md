@@ -55,6 +55,12 @@ Si quieres bloquear un dominio específico (ej. `youtube.com`):
 
 ---
 
+## ✅ Verificaciones
+Las capturas de pantalla que demuestran el correcto funcionamiento del sistema, el bloqueo de anuncios y la configuración de red se encuentran en la carpeta:
+*   `📂 Capturas/`
+
+---
+
 ## 📂 Gestión del Proyecto
 *   **Iniciar servicio**: `docker-compose up -d`
 *   **Reiniciar**: `docker-compose restart adguardhome`
